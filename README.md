@@ -1,2 +1,2 @@
 # JspIntroduction
-Jsp+HTML
+JAVA(Servlet)+HTML+XML
